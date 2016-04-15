@@ -1,0 +1,7 @@
+.bundle
+.config
+Gemfile.lock
+Cheffile.lock
+.librarian
+.kitchen
+.kitchen.local.yml

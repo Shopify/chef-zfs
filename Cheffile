@@ -1,0 +1,4 @@
+site 'https://supermarket.chef.io/api/v1'
+
+cookbook 'zfs', path: '.'
+cookbook 'zfs_test', path: './test/fixtures/cookbooks/zfs_test'
